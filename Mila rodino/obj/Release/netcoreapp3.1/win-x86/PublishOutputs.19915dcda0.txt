@@ -1,0 +1,2 @@
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Release\netcoreapp3.1\publish\Mila rodino.pdb
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Release\netcoreapp3.1\publish\Mila rodino.exe

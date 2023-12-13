@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Debug\netcoreapp3.1\Mila rodino.exe
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Debug\netcoreapp3.1\Mila rodino.deps.json
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Debug\netcoreapp3.1\Mila rodino.runtimeconfig.json
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Debug\netcoreapp3.1\Mila rodino.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Debug\netcoreapp3.1\Mila rodino.dll
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\bin\Debug\netcoreapp3.1\Mila rodino.pdb
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.AssemblyInfo.cs
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.dll
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.pdb
+C:\Users\Alex\source\repos\urrraaaaaaaaaaaaaaaa\Mila rodino\obj\Debug\netcoreapp3.1\Mila rodino.genruntimeconfig.cache

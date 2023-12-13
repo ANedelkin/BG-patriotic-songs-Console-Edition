@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7W9XXk6bpFypWoPv48+9S3ILUs33uxB2sP7e12oWOQ80kWbndRpnxbmsp8nSL2Tg8mmthDBLeWEqh8NL63EDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\GitHub\\BG-patriotic-songs-Console-Edition\\Mila rodino\\Mila rodino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

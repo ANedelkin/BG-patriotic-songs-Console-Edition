@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Mila rodino\bin\Release\netcoreapp3.1\publish\win-x86\Mila rodino.pdb
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Mila rodino\bin\Release\netcoreapp3.1\publish\win-x86\Mila rodino.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mila rodino", "Mila rodino\Mila rodino.csproj", "{C8213B6A-2521-4B8E-8EFC-09FBD69E85B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shumy Maritsa", "Shumy Maritsa\Shumy Maritsa.csproj", "{F9EE489C-4A2B-4100-896F-A733BE6B1CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8213B6A-2521-4B8E-8EFC-09FBD69E85B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8213B6A-2521-4B8E-8EFC-09FBD69E85B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8213B6A-2521-4B8E-8EFC-09FBD69E85B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8213B6A-2521-4B8E-8EFC-09FBD69E85B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EE489C-4A2B-4100-896F-A733BE6B1CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EE489C-4A2B-4100-896F-A733BE6B1CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EE489C-4A2B-4100-896F-A733BE6B1CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EE489C-4A2B-4100-896F-A733BE6B1CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5569AD6-2C56-4999-9ACA-7EAB6A3ECD4E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Rol7eLOyg+GWpcs9dOZdCHlH+id915pvczGaiDaUZrCbQmhFHk++jYZth/zQ1SP3/Njfp8am7VcaiG5vSe5Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\GitHub\\BG-patriotic-songs-Console-Edition\\Shumy Maritsa\\Shumy Maritsa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

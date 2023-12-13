@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\publish\win-x86\Shumy Maritsa.pdb
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\publish\win-x86\Shumy Maritsa.exe

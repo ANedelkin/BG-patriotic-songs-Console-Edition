@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\Shumy Maritsa.exe
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\Shumy Maritsa.deps.json
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\Shumy Maritsa.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\Shumy Maritsa.runtimeconfig.dev.json
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\Shumy Maritsa.dll
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\bin\Release\netcoreapp3.1\Shumy Maritsa.pdb
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.dll
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.pdb
+C:\Users\Alex\Documents\GitHub\BG-patriotic-songs-Console-Edition\Shumy Maritsa\obj\Release\netcoreapp3.1\Shumy Maritsa.genruntimeconfig.cache
